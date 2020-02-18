@@ -1,0 +1,90 @@
+<State>
+<Resident Id="100">
+<Name>Sample Name</Name>
+	<PhoneNumber>12345642357891</PhoneNumber>
+	<EmailAddress>sample_name@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Street Line1</StreetLine1>
+		<City>City Name</City>
+		<StateCode>AE</StateCode>
+		<PostalCode>12345</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="101">
+	<Name>Sample Name1</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="103">
+	<Name>Sample Name2</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="104">
+	<Name>Sample Name3</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="105">
+	<Name>Sample Name4</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="106">
+	<Name>Sample Name5</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="107">
+	<Name>Sample Name6</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+<Resident Id="108">
+	<Name>Sample Name7</Name>
+	<PhoneNumber>1234567891</PhoneNumber>
+	<EmailAddress>sample_name1@example.com</EmailAddress>
+	<Address>
+		<StreetLine1>Current Address</StreetLine1>
+		<City>Los Angeles</City>
+		<StateCode>CA</StateCode>
+		<PostalCode>56666</PostalCode>
+	</Address>
+</Resident>
+</State>
